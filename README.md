@@ -1,10 +1,10 @@
 # BPP_ws
 
-##install
+install
 ```bash
 $pip3 install -r requirements.txt
 ```
-##register
+register
 ```bash
 $pip3 install -e .
 ```
